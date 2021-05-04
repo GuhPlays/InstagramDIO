@@ -21,7 +21,7 @@ ___
 Recriação da página inicial do Instagram.
 O projeto foi embasado nos conceitos de CSS Flexbox e um pouco de responsividade.
 ## :interrobang: Motivo
-Incrementar minhas habilidades com CSS e HTML por meio do <a href = "https://web.digitalinnovation.one/track/html-web-developer" target = "_blank">Bootcamp HTML Web Developer da Digital Innovation One</a>
+Incrementar minhas habilidades com CSS e HTML por meio do <a href = "https://web.digitalinnovation.one/track/html-web-developer" target="_blank">Bootcamp HTML Web Developer da Digital Innovation One</a>
 ## :seedling: Requisitos Mínimos
 Qualquer browser moderno.
 ## :rocket: Tecnologias Utilizadas 

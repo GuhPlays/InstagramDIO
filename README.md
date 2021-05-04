@@ -1,5 +1,6 @@
 <h2 align = "center">#Instagram DIO</h2>
 ___
+
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -8,6 +9,7 @@ ___
   <a href="#licença">Licença</a>
 </h3>
 ___
+
 <p align="center">
   <img src="https://image.prntscr.com/image/cTwsxaQQRbOPYKj8OvwP4Q.png" max-width="750">
 </p>

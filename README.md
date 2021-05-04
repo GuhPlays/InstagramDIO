@@ -1,5 +1,7 @@
 <h2 align = "center">#Instagram DIO</h2>
+
 ___
+
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
@@ -8,7 +10,9 @@ ___
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
+
 ___
+
 
 <p align="center">
   <img src="https://image.prntscr.com/image/cTwsxaQQRbOPYKj8OvwP4Q.png" max-width="750">
